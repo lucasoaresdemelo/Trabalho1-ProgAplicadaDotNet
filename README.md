@@ -1,2 +1,2 @@
-# Trabalho1-ProgAplicadaDotNet
-Trabalho de Programação Aplicada em .NET
+# Trabalho
+Trabalho de Programação Aplicada em .NET & Web .NET
